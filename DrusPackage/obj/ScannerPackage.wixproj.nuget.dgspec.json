@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj": {}
+  },
+  "projects": {
+    "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj",
+        "projectName": "ScannerPackage",
+        "projectPath": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj",
+        "packagesPath": "C:\\Users\\jpsow\\.nuget\\packages\\",
+        "outputPath": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpsow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "targetAlias": "native",
+          "dependencies": {
+            "WixToolset.Netfx.wixext": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "WixToolset.Util.wixext": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

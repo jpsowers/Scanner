@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "native,Version=v0.0": {
+      "WixToolset.Netfx.wixext/5.0.1": {
+        "type": "package",
+        "build": {
+          "build/WixToolset.Netfx.wixext.targets": {}
+        }
+      },
+      "WixToolset.Util.wixext/5.0.1": {
+        "type": "package",
+        "build": {
+          "build/WixToolset.Util.wixext.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WixToolset.Netfx.wixext/5.0.1": {
+      "sha512": "iaW65rKDGf82EvWZus+41zSeD52aEuTBjFR1bmA5ou40sbBgO35TF20UbcX0yq2oLOsDT8CgdfPNP9RBJw9omA==",
+      "type": "package",
+      "path": "wixtoolset.netfx.wixext/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/WixToolset.Netfx.wixext.targets",
+        "wix.png",
+        "wixext5/WixToolset.Netfx.wixext.dll",
+        "wixtoolset.netfx.wixext.5.0.1.nupkg.sha512",
+        "wixtoolset.netfx.wixext.nuspec"
+      ]
+    },
+    "WixToolset.Util.wixext/5.0.1": {
+      "sha512": "7DxjepwZ4vuLfy2scstHWaKRgYmDSpj7YAV31lrxnU5a4U6Au2p9t4YpnXrNeq8FFYuZivg5vEc/zuz5tfigug==",
+      "type": "package",
+      "path": "wixtoolset.util.wixext/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/WixToolset.Util.wixext.targets",
+        "wix.png",
+        "wixext5/WixToolset.Util.wixext.dll",
+        "wixtoolset.util.wixext.5.0.1.nupkg.sha512",
+        "wixtoolset.util.wixext.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "native,Version=v0.0": [
+      "WixToolset.Netfx.wixext >= 5.0.1",
+      "WixToolset.Util.wixext >= 5.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jpsow\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj",
+      "projectName": "ScannerPackage",
+      "projectPath": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj",
+      "packagesPath": "C:\\Users\\jpsow\\.nuget\\packages\\",
+      "outputPath": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jpsow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "native"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "native": {
+          "targetAlias": "native",
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "native": {
+        "targetAlias": "native",
+        "dependencies": {
+          "WixToolset.Netfx.wixext": {
+            "target": "Package",
+            "version": "[5.0.1, )"
+          },
+          "WixToolset.Util.wixext": {
+            "target": "Package",
+            "version": "[5.0.1, )"
+          }
+        }
+      }
+    }
+  }
+}

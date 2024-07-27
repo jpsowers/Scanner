@@ -1,0 +1,5 @@
+BuiltContentOutput	C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\cab1.cab
+BuiltPdbOutput	C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\DrusPackage.wixpdb
+BuiltTargetOutput	C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\DrusPackage.msi
+Input	C:\devlopment\git\firecr\helloDru\bin\Debug\net8.0\helloDru.exe
+Intermediate	C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\cab1.cab

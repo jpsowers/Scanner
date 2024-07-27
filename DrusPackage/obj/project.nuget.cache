@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oolTGI0bwts=",
+  "success": true,
+  "projectFilePath": "C:\\Devlopment\\git\\ScannerProject\\DrusPackage\\ScannerPackage.wixproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpsow\\.nuget\\packages\\wixtoolset.netfx.wixext\\5.0.1\\wixtoolset.netfx.wixext.5.0.1.nupkg.sha512",
+    "C:\\Users\\jpsow\\.nuget\\packages\\wixtoolset.util.wixext\\5.0.1\\wixtoolset.util.wixext.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\devlopment\git\firecr\helloDru\bin\Release\net8.0\helloDru.exe
+C:\devlopment\git\firecr\helloDru\bin\Release\net8.0\helloDru.deps.json
+C:\devlopment\git\firecr\helloDru\bin\Release\net8.0\helloDru.runtimeconfig.json
+C:\devlopment\git\firecr\helloDru\bin\Release\net8.0\helloDru.dll
+C:\devlopment\git\firecr\helloDru\bin\Release\net8.0\helloDru.pdb
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.GeneratedMSBuildEditorConfig.editorconfig
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.AssemblyInfoInputs.cache
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.AssemblyInfo.cs
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.csproj.CoreCompileInputs.cache
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.dll
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\refint\helloDru.dll
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.pdb
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\helloDru.genruntimeconfig.cache
+C:\devlopment\git\firecr\helloDru\obj\Release\net8.0\ref\helloDru.dll

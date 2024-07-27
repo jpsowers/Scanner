@@ -1,0 +1,7 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ScannerContent" Directory="INSTALLFOLDER">
+      <Files Include="C:\devlopment\git\ScannerProject\out\*.*" />
+    </ComponentGroup>
+  </Fragment>
+</Wix>

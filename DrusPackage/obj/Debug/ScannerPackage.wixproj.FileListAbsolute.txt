@@ -1,0 +1,6 @@
+C:\Devlopment\git\ScannerProject\DrusPackage\bin\Debug\en-US\ScannerPackage.msi
+C:\Devlopment\git\ScannerProject\DrusPackage\bin\Debug\en-US\ScannerPackage.wixpdb
+C:\Devlopment\git\ScannerProject\DrusPackage\obj\Debug\ScannerPackage.wixproj.CoreCompileInputs.cache
+C:\Devlopment\git\ScannerProject\DrusPackage\obj\Debug\en-US\ScannerPackage.msi
+C:\Devlopment\git\ScannerProject\DrusPackage\obj\Debug\en-US\ScannerPackage.wixpdb
+C:\Devlopment\git\ScannerProject\DrusPackage\obj\Debug\ScannerPackage.wixproj.BindTracking-en-US.txt

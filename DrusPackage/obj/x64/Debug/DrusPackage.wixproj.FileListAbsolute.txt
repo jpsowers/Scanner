@@ -1,0 +1,8 @@
+C:\devlopment\git\firecr\DrusPackage\bin\x64\Debug\en-US\DrusPackage.msi
+C:\devlopment\git\firecr\DrusPackage\bin\x64\Debug\en-US\cab1.cab
+C:\devlopment\git\firecr\DrusPackage\bin\x64\Debug\en-US\DrusPackage.wixpdb
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\DrusPackage.wixproj.CoreCompileInputs.cache
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\cab1.cab
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\DrusPackage.msi
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\DrusPackage.wixpdb
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\DrusPackage.wixproj.BindTracking-en-US.txt

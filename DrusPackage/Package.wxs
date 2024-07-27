@@ -1,0 +1,11 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="Scanner"
+           Manufacturer="VisualComfort"
+           Version="1.0.0.2"
+           UpgradeCode="907e7fea-de69-4451-aedc-f4c756f64971">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+    <Feature Id="ProductFeature" Title="Scanner" Level="1">
+      <ComponentGroupRef Id="ScannerContent" />
+    </Feature>
+  </Package>
+</Wix>

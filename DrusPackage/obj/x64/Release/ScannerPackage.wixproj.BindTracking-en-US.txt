@@ -1,0 +1,7 @@
+BuiltContentOutput	C:\devlopment\git\firecr\DrusPackage\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	C:\devlopment\git\firecr\DrusPackage\obj\x64\Release\en-US\ScannerPackage.wixpdb
+BuiltTargetOutput	C:\devlopment\git\firecr\DrusPackage\obj\x64\Release\en-US\ScannerPackage.msi
+Input	C:\devlopment\git\firecr\helloDru\bin\Debug\net8.0\helloDru.dll
+Input	C:\devlopment\git\firecr\helloDru\bin\Debug\net8.0\helloDru.exe
+Input	C:\devlopment\git\firecr\helloDru\bin\Debug\net8.0\helloDru.runtimeconfig.json
+Intermediate	C:\devlopment\git\firecr\DrusPackage\obj\x64\Release\en-US\cab1.cab

@@ -1,0 +1,2 @@
+BuiltPdbOutput	C:\Devlopment\git\ScannerProject\DrusPackage\obj\Debug\en-US\ScannerPackage.wixpdb
+BuiltTargetOutput	C:\Devlopment\git\ScannerProject\DrusPackage\obj\Debug\en-US\ScannerPackage.msi

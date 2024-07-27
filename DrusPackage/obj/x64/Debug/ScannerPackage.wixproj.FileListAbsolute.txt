@@ -1,0 +1,8 @@
+C:\devlopment\git\firecr\DrusPackage\bin\x64\Debug\en-US\ScannerPackage.msi
+C:\devlopment\git\firecr\DrusPackage\bin\x64\Debug\en-US\cab1.cab
+C:\devlopment\git\firecr\DrusPackage\bin\x64\Debug\en-US\ScannerPackage.wixpdb
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\ScannerPackage.wixproj.CoreCompileInputs.cache
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\cab1.cab
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\ScannerPackage.msi
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\en-US\ScannerPackage.wixpdb
+C:\devlopment\git\firecr\DrusPackage\obj\x64\Debug\ScannerPackage.wixproj.BindTracking-en-US.txt
